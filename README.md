@@ -9,6 +9,8 @@
 * nested rules
 * for each 
 
+# Live demo 
+ https://jasurkurbanovinit.github.io/sass-landing-page/
 # Preview
 Full View
 
